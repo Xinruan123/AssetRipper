@@ -84,6 +84,7 @@
   <Project Path="Source/AssetRipper.GUI.Licensing/AssetRipper.GUI.Licensing.csproj" />
   <Project Path="Source/AssetRipper.GUI.Localizations.SourceGenerator/AssetRipper.GUI.Localizations.SourceGenerator.csproj" />
   <Project Path="Source/AssetRipper.GUI.Localizations/AssetRipper.GUI.Localizations.csproj" />
+  <Project Path="Source/AssetRipper.GUI.Premium/AssetRipper.GUI.Premium.csproj" />
   <Project Path="Source/AssetRipper.GUI.SourceGenerator/AssetRipper.GUI.SourceGenerator.csproj" />
   <Project Path="Source/AssetRipper.GUI.Web.Tests/AssetRipper.GUI.Web.Tests.csproj" />
   <Project Path="Source/AssetRipper.GUI.Web/AssetRipper.GUI.Web.csproj" />
